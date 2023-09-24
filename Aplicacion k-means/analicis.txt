@@ -1,0 +1,5 @@
+En la grafica final tenemos como puntos todos los regitros que tenia nuestro dataset donde cada punto represneta un registor de ests y se han coloreado para indicar a qué clúster ha sido asignado por el algoritmo K-Means. Los colores representan diferentes agrupamientos o clústeres de flores, lo que nos permite identificar visualmente cómo se distribuyen las observaciones en función de sus características.
+
+Los centroides de los clústeres están representados como puntos rojos en la gráfica. Estos centroides son el resultado de calcular el centro promedio de cada grupo de flores en términos de sus valores
+
+Al observar la gráfica, podemos notar cómo los puntos de datos tienden a agruparse alrededor de estos centroides, lo que indica que el algoritmo K-Means ha logrado encontrar patrones en los datos y agrupar las flores de manera coherente. Además, podemos ver la dispersión de los puntos dentro de cada clúster y cómo los centroides están ubicados en relación con los puntos de datos en su clúster respectivo.
